@@ -28,7 +28,8 @@ This project implements a Univeral asynchronous Receiver Transmitter(UART) commu
   
 - PC Terminal Software(PuTTY)
 - Vivado
-- VS Code
+- Verilog HDL
+- GTK Wave
 
 - --
 
