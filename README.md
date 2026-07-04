@@ -113,5 +113,7 @@ PC -> FPGA Communication
 ## Author
 
 Cherukuri ShyamSundhar
+
 Electronics and Communication Engineering
+
 IIT Bhubaneswar
